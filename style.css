@@ -3,9 +3,14 @@ html {
   height: 100%;
   width: 100%;
   color: #c0bfbc;
+  user-select: none;
 }
+
+.hidden {
+    display: none;
+}
+
 body{  
-  background-image: url("Cover.png");
   background-size: contain, auto;
   background-repeat: no-repeat;
   background-position: center;
@@ -26,6 +31,7 @@ body{
 p {
   position: relative absolute;
   font-size: 16px;
+  user-select: text;
 }
 
 footer {
@@ -35,4 +41,9 @@ footer {
 
 .vnum {
    right: 10px;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 0;
 }

@@ -116,7 +116,7 @@ function playRandomMusic() {
 
   // ptag file name
   var fileNameTag = document.getElementById('currentSong');
-  fileNameTag.textContent = "song " + modifiedFileName;
+  fileNameTag.textContent = "song -" + modifiedFileName;
 
   // musisc play
   audio.play();

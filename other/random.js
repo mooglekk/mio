@@ -38,7 +38,7 @@ var musicList = [
 "17 - Glory.mp3"
 "18 - Bach: BWV 639 "I Call To You, Lord Jesus Christ".mp3"
 "19 - Divine Intervention.mp3"
-"20 - Disgrace. Humiliation..mp3"
+"20 - Disgrace. Humiliation.mp3"
 "21 - Take Care.mp3"
 "22 - Meganeko - The Cyber Grind.mp3"
 "Deep Blue (Calm Loop).mp3"
